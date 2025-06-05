@@ -1,0 +1,7 @@
+### Footprint positions - created on 2025-04-28T06:30:52+1000 ###
+### Printed by KiCad version 9.0.1-9.0.1-0~ubuntu24.10.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                   Package                                   PosX       PosY       Rot  Side
+J4        Conn_ARM_JTAG_SWD_10  PinHeader_2x05_P1.27mm_Vertical_SMD    19.2500    36.7300  180.0000  bottom
+## End

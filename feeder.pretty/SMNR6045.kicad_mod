@@ -1,0 +1,288 @@
+(footprint "SMNR6045"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Choke, SMD, 6.3x6.3mm 3mm height")
+	(tags "Choke SMD")
+	(property "Reference" "L1"
+		(at 4.71 -2.46 270)
+		(layer "F.SilkS")
+		(uuid "b6d0fd31-ffe2-4d07-ad25-779dbe1484eb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "220uH"
+		(at 0 4.45 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "64f1ee1d-d75a-4126-81c0-adefb11dd448")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121441_SXN-Shun-Xiang-Nuo-Elec-SMNR6045-221MT_C467145.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cac7aaf5-c458-4f4f-8a4b-3ca4880d21b9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "700mA 220uH Shielded Power Inductor ±20% 700mA SMD,6x6mm Power Inductors ROHS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43d7261b-a87b-4b7f-9845-c30761036105")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C467145"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2984c644-8df3-4716-b761-b68d5ce024c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.3 -3.2)
+		(end 3.3 -3.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "95de9e15-01ae-4cb4-8ba9-f5be00e154d5")
+	)
+	(fp_line
+		(start -3.3 -1.5)
+		(end -3.3 -3.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b0a8e652-0728-4b24-b273-9c3dae29c857")
+	)
+	(fp_line
+		(start -3.3 3.2)
+		(end -3.3 1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "18ff9d8f-4496-4360-93bf-a6ccb5b3db25")
+	)
+	(fp_line
+		(start 3.3 -3.2)
+		(end 3.3 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9f8eed73-c43d-4f57-83ec-5391dfe93744")
+	)
+	(fp_line
+		(start 3.3 1.5)
+		(end 3.3 3.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f8df5a70-c43f-4366-a5b5-c6212f7aa601")
+	)
+	(fp_line
+		(start 3.3 3.2)
+		(end -3.3 3.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f30f109f-9efd-4b60-9161-465bf07faa22")
+	)
+	(fp_line
+		(start -3.75 -3.4)
+		(end -3.75 3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7d94a011-f67c-4745-8863-64f7f2983cfb")
+	)
+	(fp_line
+		(start -3.75 3.4)
+		(end 3.75 3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "103c35f6-9b37-434b-85c8-5d95df9872dd")
+	)
+	(fp_line
+		(start 3.75 -3.4)
+		(end -3.75 -3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d8a95b6-77d7-40af-9f0e-18e59e4229a2")
+	)
+	(fp_line
+		(start 3.75 3.4)
+		(end 3.75 -3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bac7a412-b82f-43ea-bd62-fc135b29f0bc")
+	)
+	(fp_line
+		(start -3.15 -3.15)
+		(end -3.15 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "534b8cb5-7658-4f08-ad12-d7f25042b883")
+	)
+	(fp_line
+		(start -3.15 -3.15)
+		(end 3.15 -3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5a9e2333-731d-478f-9fcf-5bdb2de2a273")
+	)
+	(fp_line
+		(start -3.15 3.15)
+		(end -3.15 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0cb54db0-274c-4d8f-8191-da0203cc02ed")
+	)
+	(fp_line
+		(start -3.15 3.15)
+		(end 3.15 3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6034064b-746b-4c38-ba50-a97e167419e6")
+	)
+	(fp_line
+		(start 3.15 -3.15)
+		(end 3.15 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ff1b5f1a-ba20-40ff-823d-74eaf81a1ef8")
+	)
+	(fp_line
+		(start 3.15 3.15)
+		(end 3.15 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b1febe71-0ac9-43c7-b7af-2e591db13562")
+	)
+	(fp_arc
+		(start -1.91 -1.91)
+		(mid 0 -2.701148)
+		(end 1.91 -1.91)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "167bb1be-8c22-4c99-b50e-9aaa0cb4edcc")
+	)
+	(fp_arc
+		(start 1.91 1.91)
+		(mid 0 2.701148)
+		(end -1.91 1.91)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "814257a3-2f72-4646-944c-9be8db7b72c2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "36fe7703-b9c5-469c-b540-6cd8d4cb9ce3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.25 0)
+		(size 1.7 5.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "534b5ea7-2d81-4cbc-b987-88fe48a092c6")
+	)
+	(pad "2" smd rect
+		(at 2.25 0)
+		(size 1.7 5.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "70c9b4d5-9ce6-41bc-b7d1-9f319c6ded28")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D models/Inductor_63.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 45)
+		)
+	)
+)
