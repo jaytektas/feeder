@@ -409,6 +409,19 @@
 				)
 			)
 		)
+		(property "#" "C2845383"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d35e71d5-27e8-47b5-b377-fce45de682fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8842cb18-cbf4-4bba-ab8a-e67a9d434f10/1b4f9bb1-5717-479c-947d-64183d9dce76")
 		(sheetname "/DRIVE/")
@@ -877,6 +890,71 @@
 				)
 			)
 		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41f3889c-046d-4ed6-939b-19ba2ba140f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C25804"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38ed49b5-8c7a-4c18-bbd1-f38ee5f5ca0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f575dda0-5383-4a9b-bb33-83c27d4e1754")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b4e54d8-5685-4dc3-a0e3-c7289054fe85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1b216f8-1a0d-4492-ace0-1ac4837f3f23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8842cb18-cbf4-4bba-ab8a-e67a9d434f10/4fb5cca3-830b-4b68-a30f-000471b004af")
 		(sheetname "/DRIVE/")
@@ -1064,7 +1142,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1082,6 +1160,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6d9a2a08-dbae-459f-a4ac-157a55bf6b5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c1664b3-8c3b-45b8-851d-86c255493064")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1671297d-0101-45c7-926d-4d36c36eb558")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0334eb27-4fdf-4ed0-b46b-0e9e57acb23f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "efffad7d-0393-42cc-a9d9-c27c28537ed4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d42ef604-5420-4bf1-bc8d-2f31c426db2f")
 			(effects
 				(font
 					(size 1 1)
@@ -1296,6 +1439,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "753f8a5a-df12-45d1-afda-687ef0eeb153")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C191000"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55ccfa72-22b0-4db4-bd0f-9af1cc2b990e")
 			(effects
 				(font
 					(size 1 1)
@@ -1595,7 +1751,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1613,6 +1769,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c494377-a7a7-4eef-bee8-9a988cc3fa7a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c36ddf9f-3f46-4163-9be7-9dcd1a60c1d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42816324-87e4-4534-aa62-eb879c638af1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd9fc7e7-86cd-4dbb-a4f3-d4965189fcb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5930793b-308e-4340-b43d-700b5e011a5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b4f4859-9bdb-4a7f-b870-3f2972cf97a7")
 			(effects
 				(font
 					(size 1 1)
@@ -2126,7 +2347,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2144,6 +2365,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "89f8a653-0924-4328-8e67-24a65ca0e0c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0dbcf3c-d793-45f2-9121-79172adf4ce8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15799b8d-1db0-449c-86e2-4b95795f8cfa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb4e96ab-c86c-4cc3-a481-78b16b25fa59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b26b71a2-7dc9-4aa6-bdfa-3fc1146006c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "79551458-a2f0-46d8-b172-f330234c5f27")
 			(effects
 				(font
 					(size 1 1)
@@ -2356,6 +2642,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "94ba627e-ad08-47dd-bc67-4d1e4ef8770c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1e0e478-70fb-4bfc-ac0f-c0796d5c6a3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C25804"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e93966d-f150-46cc-8646-ae8eebd7d397")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1116e86-f79c-4653-a9d3-2b77ba080d4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32f67e49-2b36-400a-a89c-f18ca0a8881e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67fc80bc-9bfc-45f4-a70e-9af8b8e7a25f")
 			(effects
 				(font
 					(size 1 1)
@@ -2578,7 +2929,7 @@
 				)
 			)
 		)
-		(property "#" ""
+		(property "#" "C467145"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2591,7 +2942,7 @@
 				)
 			)
 		)
-		(property "Height" ""
+		(property "Height" "4.5"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2604,7 +2955,7 @@
 				)
 			)
 		)
-		(property "Width" ""
+		(property "Width" "6"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2617,7 +2968,7 @@
 				)
 			)
 		)
-		(property "Length" ""
+		(property "Length" "6"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3098,6 +3449,71 @@
 				)
 			)
 		)
+		(property "Tape" "8x4"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae153f17-c6d0-4d5e-9d54-c85802c70b7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C163424"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c03944ff-052b-4c26-9fa7-211f7b317bbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2829478-5a6e-48e1-9008-0d5330797ccc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5a87b22-1c5a-4ce4-863e-1c6e32149ad1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74b5a8e9-20a6-4c90-a879-3a7766148dd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/eb9c645c-9c50-4300-89b4-78eec21e7397/74fc64c2-d1d2-40a8-a580-7e1486e6f431")
 		(sheetname "/POWER/")
@@ -3311,6 +3727,58 @@
 				)
 			)
 		)
+		(property "#" "C648984"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20d238ee-602f-4b5b-98f6-75fc8a259bec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".65"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e7973f2-07cc-4703-a1f2-520747668d9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "3.2"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24653010-7be2-4e3f-bf66-fcd140084ac3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "2.5"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f414c5ac-e705-4d97-b0fa-5ce751923af8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Crystal*")
 		(path "/620c1a1d-940a-4935-906c-1094fcbbad68/45e0a2b2-3259-4f91-8f76-5363f3525e22")
 		(sheetname "/MCU/")
@@ -3463,7 +3931,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3481,6 +3949,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a51c8f8e-23dc-4a87-9250-1566dfb45acc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cb66538-a731-455b-9833-56110ab0c290")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2754717-f61c-4b01-86d4-f186496c3d83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae0fc4d3-daf3-4a9d-9fac-9d22e7cb03a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29b09e25-673d-45a9-b55f-0d9ac4f65a41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "810b0c96-5a01-4e00-b833-e6cb91d3898c")
 			(effects
 				(font
 					(size 1 1)
@@ -3675,7 +4208,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 144)
 			(layer "F.Fab")
 			(hide yes)
@@ -3693,6 +4226,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "66b2619b-b3ab-452d-a6cc-e12d25bb9534")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C25804"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39f1d83a-1d1a-496c-8ae8-47d92aa8bd06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9ffb73e-c981-4dab-ad4b-cce3549db20e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91c7a331-1a2d-492d-8846-5ec5321ab453")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ea54f87-6205-40c8-b85a-32969adfac84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a63e5d9-94cc-46fa-8cd4-42fcf76807e9")
 			(effects
 				(font
 					(size 1 1)
@@ -3887,7 +4485,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3905,6 +4503,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1426d287-3349-49a9-bc6c-81614f94c69f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "87c74033-a032-4cb0-baeb-2e4619afbe9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8b8dfad-565b-496e-beb5-8316f7fb5617")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70afa8bb-b8d4-42f9-918a-51ebe51bf1ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e03a6cf5-6e37-4aba-9732-4b99f6cbc3ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee886aa0-da57-4490-996f-9c2deade5616")
 			(effects
 				(font
 					(size 1 1)
@@ -4120,6 +4783,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "95fc9920-a910-4440-8b5b-2719260e8d50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C82544"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa84add7-dec3-4924-a1fc-efbeee47a74f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "1"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bdc366e-def4-425e-984a-849c409acaa7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "3.65"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7a3a8cf-1361-4980-ad73-9b811075b6f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "1.55"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0ee8fba-4af1-4192-8092-738137c02ecb")
 			(effects
 				(font
 					(size 1 1)
@@ -4584,6 +5299,19 @@
 				)
 			)
 		)
+		(property "#" "C191000"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8ae4198-b64a-4d38-af98-5e7e7b04e836")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "WSON*1EP*2x2mm*P0.5mm*")
 		(path "/8842cb18-cbf4-4bba-ab8a-e67a9d434f10/ab63b7b5-3f4a-4e64-8b4f-b308880aedd7")
 		(sheetname "/DRIVE/")
@@ -4955,6 +5683,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C319392"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a73724d8-e04c-4919-8a19-3170407dda79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a80eee97-f8ac-40ea-afb0-2221563467aa/f1d9a5b8-f6a3-4b85-b3e4-5ab32fa99846")
 		(sheetname "/IO/")
 		(sheetfile "io.kicad_sch")
@@ -5247,6 +5988,71 @@
 				)
 			)
 		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58becae6-f5e5-4711-8927-7ab2fed883bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C21190"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd00886b-4e9b-45ca-9cf0-1d45a3009e8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9ede955-e456-4dcb-9a6f-0540365c3d7d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c289053-e775-40b2-84dd-081090167dda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0954bf9-c4f7-4a36-81b9-e795fa480529")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a80eee97-f8ac-40ea-afb0-2221563467aa/7615fa30-c4b3-424f-b952-ac97856e11e4")
 		(sheetname "/IO/")
@@ -5434,7 +6240,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5452,6 +6258,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9ae1508d-7467-4530-8494-6aab2937a7da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4e4935f-f335-4841-93e5-0b63df5de1b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e694d9cf-e320-4712-affd-7ba954cbc0cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02e71c8f-36bd-4e69-bf69-8632aa8c2465")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98d7f5dd-e346-447b-b63b-078539ff93c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "684161de-d51d-4d3f-93cc-2f4f3976c916")
 			(effects
 				(font
 					(size 1 1)
@@ -5665,6 +6536,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bc70593d-2c67-4060-8b84-8ec76d0ab221")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C5354997"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0322924-94c2-4b66-b619-e4245dce82b4")
 			(effects
 				(font
 					(size 1 1)
@@ -6050,7 +6934,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6068,6 +6952,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "65d3c11e-9e74-4f76-9da7-36a236f45326")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f42ac70a-e95c-42b8-8b53-af2e5fd8f237")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e112394-ab70-4114-b64c-66df5e558978")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2dfc977b-feec-4aff-89e4-ecc62f96f31c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "79467976-e15b-48e9-b705-91152d895d52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "febd9bae-1f4d-4993-b766-9145f27e16be")
 			(effects
 				(font
 					(size 1 1)
@@ -6280,6 +7229,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "16460540-ddcf-47f1-bf8d-e2b06424a02b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C7432785"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c7401de-62b3-40fc-a3b8-90f25769e3b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "3.2"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9b81f75-4cc9-444d-811c-ebd6c8731c79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33aea15b-6988-4a49-9e5a-187785d82fa2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6fa0c8b7-19f9-42d7-90f3-1ab23070dbd3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a099686-9ec3-477f-9d02-3f2207015f5f")
 			(effects
 				(font
 					(size 1 1)
@@ -6660,6 +7674,71 @@
 				)
 			)
 		)
+		(property "Tape" "8x4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "962099cf-12c9-460b-b733-0030ca0a6a89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C114627"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42e1b8e3-08e8-4029-8fbb-a78e5485939e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "466be822-b871-4d24-8c7f-18d71c53dc37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba0d2be9-7dee-448d-90cd-96a25314fd58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12187316-f667-4525-99fa-72f4e8447505")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/eb9c645c-9c50-4300-89b4-78eec21e7397/56de75c5-5aa6-4d52-9221-0598e232d044")
 		(sheetname "/POWER/")
@@ -7033,6 +8112,71 @@
 				)
 			)
 		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6d2d6b2-9534-4c7f-80c5-c65518f5d34d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C21190"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9596787e-ac30-470e-b40f-e678b6d758f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9784921-f1ec-47da-85b1-beda486bb845")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "beaf9477-ec1b-4854-9141-6acdff7a3fd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51c67aee-8ce6-4a07-a66a-c8e924be66d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a80eee97-f8ac-40ea-afb0-2221563467aa/3adff747-15a8-4ff6-8b10-b8b83fc613fb")
 		(sheetname "/IO/")
@@ -7238,6 +8382,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cce3d2bb-c37f-4d00-9f61-8a4e381af058")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C6332249"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3da4a8a-6684-40c7-be22-d7869bf54702")
 			(effects
 				(font
 					(size 1 1)
@@ -7864,7 +9021,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7882,6 +9039,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "576e8b7e-e514-45f3-8464-04151e641f48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15a94841-305f-4938-b908-e0ff05f3a79e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c07a0f7-3ec6-4d39-b5be-ec340cd126fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "286cd4b4-9a2e-4e26-a927-19b65cf0f6f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a99a4fa2-746a-4b91-9e64-f4ae047900b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67bb501e-ef56-4967-a053-8cdbcd99489e")
 			(effects
 				(font
 					(size 1 1)
@@ -8094,6 +9316,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "96cbdcfa-c8c6-4c0f-b8ae-40d8c47c724e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91356bb3-53a2-4a8a-bf93-73b634dd0f96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C2934265"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7becf97-a528-48e7-85ab-87dda403c0dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "2"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5703f1b7-6f21-413f-b833-b84b85ceebe1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "1.25"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9bb6970-99f3-424e-8f38-5735545e8b17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d39ab553-167d-4648-b09d-686d76d07f5f")
 			(effects
 				(font
 					(size 1 1)
@@ -8360,6 +9647,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6f6f7f03-d615-4c7c-b76a-e765640afcaa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C319392"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e59ce16-390f-488e-a6bc-d82212e74b72")
 			(effects
 				(font
 					(size 1 1)
@@ -8700,12 +10000,25 @@
 				)
 			)
 		)
-		(property "Field9" "2.3"
+		(property "LCSC" "C319392"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "03a1b6cd-4acb-4fa0-81d6-643d503f2bbc")
+			(uuid "e9e05b27-3a89-4e28-a012-9f0690fc0170")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "2.3"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "77338d53-975a-45ec-8f94-c935d274e99b")
 			(effects
 				(font
 					(size 1 1)
@@ -8998,6 +10311,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "20095902-186e-4347-ae94-cd990e0cba18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C7432785"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7902833-fc3a-4057-91b3-8c4ee00bb12d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "3.2"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a27d2717-6c5c-4a38-8b6c-68b4ad03d33c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98eecd1b-06d3-4d41-86e0-e66e6c9f18ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "514a1f8a-a45e-45ea-b671-c65f38c9586c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec5b53cd-ae5e-404a-91fc-6dd666d66f74")
 			(effects
 				(font
 					(size 1 1)
@@ -9353,7 +10731,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 144)
 			(layer "F.Fab")
 			(hide yes)
@@ -9371,6 +10749,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "020623cb-7a37-41c8-a285-9cb2c4f205aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C25804"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70b94049-c40b-4ba6-a04a-35fe10ada8a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60c11c55-85fc-43e2-9aa7-a6f6bc4e5a46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e75ee6f8-8108-4158-9ce9-8122976581c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef3d7d5c-a837-491e-8be1-7f5d0c62d8bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 324)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5200bd51-fe13-4f91-b5b2-6fec4ef95788")
 			(effects
 				(font
 					(size 1 1)
@@ -9565,7 +11008,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9583,6 +11026,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8eb57c40-6545-4b75-8927-c220c6b4c412")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C25804"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c715511a-c039-487c-8eda-c0c109218d84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "adcfdc5f-f41b-4b27-ba71-ee9aafd67fe6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f434a02-29d9-410c-afd0-0296f615ddb1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74be3347-89a1-4e45-8d81-446fb0152305")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47c5f4fb-a3ed-4047-9488-ff8140995151")
 			(effects
 				(font
 					(size 1 1)
@@ -9795,6 +11303,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b5f6ac19-8765-4ae5-a617-ec5eee333549")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C2885450"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b02a5b1-2c0d-4dd4-aae2-4643694c959d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "1.7"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3622477-0d3c-44e3-95fc-e50303cc12eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "4.9"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a19a1d84-b2c9-46c1-8c72-fc2b85557f11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "3.9"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "701c5e14-ff98-4d6c-ab4a-ebf61ce40885")
 			(effects
 				(font
 					(size 1 1)
@@ -10200,6 +11760,19 @@
 				)
 			)
 		)
+		(property "#" "C347222"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e35808f-ca87-4dcd-90ec-14605afc2490")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/eb9c645c-9c50-4300-89b4-78eec21e7397/4038c7a9-4c4f-4d72-8cb6-812163e1567e")
 		(sheetname "/POWER/")
@@ -10469,6 +12042,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a68cad9f-15bf-4ce6-ab42-ae2dd5922715")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C2691448"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "443569d8-af16-4bb8-9eb8-b5f817ea8845")
 			(effects
 				(font
 					(size 1 1)
@@ -10856,6 +12442,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "804c1190-5157-47a8-a15d-3a8b1f3906e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C2845379"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8c23cfa-9906-41d0-983d-c0f8af02367b")
 			(effects
 				(font
 					(size 1 1)
@@ -11345,6 +12944,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C319392"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e14d520f-01e0-4d11-8b36-e23f2b84ac91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/620c1a1d-940a-4935-906c-1094fcbbad68/54ec65f3-3abe-43d4-ae53-dc53370ebdaf")
 		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
@@ -11613,7 +13225,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11631,6 +13243,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f3282c2f-92b4-4910-9b38-d8d327f8c4a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9878ebe2-73aa-47c3-b90a-12a243baccfe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ff6a59f-7d13-4df5-b666-4e0355e63dcf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f1acede-3326-43a2-bbc1-973054b5178b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df6f3fcb-3820-41b1-9326-e511ed3034f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24540acf-0382-48f3-b9bb-c6994753fcf7")
 			(effects
 				(font
 					(size 1 1)
@@ -12231,6 +13908,58 @@
 				)
 			)
 		)
+		(property "#" "C80213"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbedafec-4e52-4d7d-95dd-ada34a42287c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "1.5"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05e28a0e-ee55-4365-bfd1-f7553e9a47c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "4.9"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1539751-6f75-48c7-8263-3774e41e69e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "3.9"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9598c3f3-6224-4c8c-98b1-6248cbb22c94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/eb9c645c-9c50-4300-89b4-78eec21e7397/b349e3bd-2f76-4336-9dca-e7b77f87e771")
 		(sheetname "/POWER/")
@@ -12620,6 +14349,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6519198a-b64e-4208-abfe-df72f6590aea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c614b47-e350-43c6-87bd-dd7ec624b367")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C21190"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "280b6b89-5359-40d9-868d-6a3365add52a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59fc03e8-6d5b-4151-9f7b-7efcbf898b3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c578d8a-1303-472b-ada8-16fbec478cf7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3580c118-9619-4922-bad2-1e6c15b0b6b2")
 			(effects
 				(font
 					(size 1 1)
@@ -13136,7 +14930,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 120Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 54)
 			(layer "F.Fab")
 			(hide yes)
@@ -13148,12 +14942,77 @@
 				)
 			)
 		)
-		(property "LCSC" "C22765"
+		(property "LCSC" ""
 			(at 0 0 234)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "15ba8b6e-05ac-4783-80cb-1d82dc0adf4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C22765"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98fee356-cf8b-4284-898e-313f35cd48a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3016c42-fe72-4b76-8132-1a1fe83f1a37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40f3082d-2635-4aa7-a108-ce453b5d6704")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "942417c2-2a3f-4f8d-ace9-6f83c7a0eff2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9655f009-3732-4771-b300-bd4f14cd224e")
 			(effects
 				(font
 					(size 1 1)
@@ -13348,7 +15207,7 @@
 				)
 			)
 		)
-		(property "Description" "Description 0.1W Thick Film Resistors 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS 0 0 Center Center 0 0"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13366,6 +15225,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c199209b-719a-47a8-a073-8a74966a1c5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C21190"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cdf0939-c121-4b24-b141-fc633cfd3602")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".45"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47e69121-591a-48dd-bc37-b8964c272269")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "236a8a40-baec-418a-af84-0da23414f66a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f67ffe1c-5ab8-4755-92e6-0b599bd43eb7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0cfad354-3bcf-49b7-b1a3-290eb194a03b")
 			(effects
 				(font
 					(size 1 1)
@@ -13585,7 +15509,7 @@
 				)
 			)
 		)
-		(property "#" ""
+		(property "#" "C23922"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13598,7 +15522,7 @@
 				)
 			)
 		)
-		(property "Height" ""
+		(property "Height" "1.45"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13611,7 +15535,7 @@
 				)
 			)
 		)
-		(property "Width" ""
+		(property "Width" "7"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13624,7 +15548,7 @@
 				)
 			)
 		)
-		(property "Length" ""
+		(property "Length" "7"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14702,7 +16626,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 10pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14720,6 +16644,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "20c9874a-89d2-46b1-90f4-6f53bfce2997")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C1634"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "333ad3e2-16f9-4334-9093-5ccd14fc8297")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32072821-e96a-453f-88ba-f3cab2b24ddf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84b5a313-298e-4bad-a301-595928ff1abb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4be576ac-ab51-4512-8151-8ec444b9f64b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ed1493e-5453-4d6d-807f-c40f23445630")
 			(effects
 				(font
 					(size 1 1)
@@ -14932,6 +16921,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9526ea34-b2dd-49c5-a7e3-477a68b17a3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C965804"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92b589b6-c40b-4389-aa49-d8f6611da5bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04cb3c67-57a5-4acc-bf65-47d090134911")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d49ac08-62f5-4a65-88cc-0f8d6b25e932")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9d2734a-6083-4bda-861d-41a0f3ad5e88")
 			(effects
 				(font
 					(size 1 1)
@@ -15174,6 +17215,71 @@
 				)
 			)
 		)
+		(property "#" "C107092"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2662c9c-d35f-4abc-acdc-8e9705d18134")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d2af2d0-6a7c-4046-81ed-5cbcdfbf8618")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd57457b-73b1-4372-8f0c-969680b30b08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16d1b927-3c77-4b95-804c-7e8c83851b31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0ef45fd-18fb-4f5a-8a11-93c78c0bfc8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/eb9c645c-9c50-4300-89b4-78eec21e7397/4be7c2da-8eb6-44ca-8d6d-a5bb9a17f9a2")
 		(sheetname "/POWER/")
@@ -15388,7 +17494,7 @@
 				)
 			)
 		)
-		(property "#" ""
+		(property "#" "C496820"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15401,7 +17507,7 @@
 				)
 			)
 		)
-		(property "Height" ""
+		(property "Height" "1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15414,7 +17520,7 @@
 				)
 			)
 		)
-		(property "Width" ""
+		(property "Width" "1.5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15427,7 +17533,7 @@
 				)
 			)
 		)
-		(property "Length" ""
+		(property "Length" "3.2"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15440,7 +17546,7 @@
 				)
 			)
 		)
-		(property "Tape" ""
+		(property "Tape" "8x4"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15679,6 +17785,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "01f28425-9f90-483e-b745-f432b7a66742")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C2836442"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f1846a2-ede6-45f3-ac21-1737fcdc9c06")
 			(effects
 				(font
 					(size 1 1)
@@ -16163,7 +18282,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 10pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16181,6 +18300,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8a956c98-027d-4a85-bb4c-68ecc7c39a21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C1634"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb086ec5-d752-43bc-a4df-332e518e1f4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92e5a31e-c4a6-45f3-a636-306634564a16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "063a6fb8-ca5e-41a7-913a-1b4766ca8166")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b44fb738-7ba8-4ca6-8488-706d14d02a23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "168e1928-c43a-46b3-b9db-c5b7d7e0ceb3")
 			(effects
 				(font
 					(size 1 1)
@@ -16375,7 +18559,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16393,6 +18577,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e5fdcaf-ff89-4246-bb77-0528edfab5c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "#" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ebe8dcc-e78f-4812-ae0c-fae30c67437d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "1.6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cce60ecb-3d2e-4259-8e1b-c983599e31b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c8747d5-9a96-4ee2-942e-899a22dd5e68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39f3493b-9290-41e0-814a-d2d5e6523419")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94724765-0e63-49d0-a9a6-9699fb4415a2")
 			(effects
 				(font
 					(size 1 1)
@@ -16609,6 +18858,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "94ebb5aa-8a98-4138-9511-670b34dab101")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "#" "C6332249"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "00e8ee16-922a-46f8-b742-445070a85e9f")
 			(effects
 				(font
 					(size 1 1)

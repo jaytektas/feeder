@@ -1354,7 +1354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1W Thick Film Resistors 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 69.85 66.04 0)
 			(effects
 				(font
@@ -1364,6 +1364,51 @@
 			)
 		)
 		(property "LCSC" "C21190"
+			(at 69.85 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 69.85 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" "C21190"
+			(at 69.85 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" "1.6"
+			(at 69.85 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ".8"
+			(at 69.85 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ".45"
 			(at 69.85 66.04 0)
 			(effects
 				(font
@@ -1476,6 +1521,15 @@
 			)
 		)
 		(property "Length" "2.3"
+			(at 142.24 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C319392"
 			(at 142.24 54.61 0)
 			(effects
 				(font
@@ -1617,7 +1671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1W Thick Film Resistors 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 74.93 72.39 0)
 			(effects
 				(font
@@ -1627,6 +1681,51 @@
 			)
 		)
 		(property "LCSC" "C21190"
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" "C21190"
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" "1.6"
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ".8"
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ".45"
 			(at 74.93 72.39 0)
 			(effects
 				(font
@@ -1714,7 +1813,7 @@
 				(hide yes)
 			)
 		)
-		(property "#" ""
+		(property "#" "C496820"
 			(at 69.85 52.07 0)
 			(effects
 				(font
@@ -1723,7 +1822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" ""
+		(property "Height" "1"
 			(at 69.85 52.07 0)
 			(effects
 				(font
@@ -1732,7 +1831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Width" ""
+		(property "Width" "1.5"
 			(at 69.85 52.07 0)
 			(effects
 				(font
@@ -1741,7 +1840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Length" ""
+		(property "Length" "3.2"
 			(at 69.85 52.07 0)
 			(effects
 				(font
@@ -1750,7 +1849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tape" ""
+		(property "Tape" "8x4"
 			(at 69.85 52.07 0)
 			(effects
 				(font
@@ -1943,6 +2042,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C319392"
+			(at 118.11 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "335ec796-bfa8-4d4e-a337-e03ad60e6c90")
 		)
@@ -2010,7 +2118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1W Thick Film Resistors 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 64.77 60.96 0)
 			(effects
 				(font
@@ -2020,6 +2128,51 @@
 			)
 		)
 		(property "LCSC" "C21190"
+			(at 64.77 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 64.77 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "#" "C21190"
+			(at 64.77 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" "1.6"
+			(at 64.77 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" ".8"
+			(at 64.77 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ".45"
 			(at 64.77 60.96 0)
 			(effects
 				(font
