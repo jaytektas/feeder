@@ -422,6 +422,58 @@
 				)
 			)
 		)
+		(property "Length" "12.5"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50dcdb0e-31e6-4243-a861-9573b564be3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "24x8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5cbe96ce-7cdb-4e02-b304-3d7cc9da9bfc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "5"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2389d86-1a78-44de-ac9c-a63ac5a42b01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "3.5"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c387097-dd7d-45b0-830d-591b466da90d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8842cb18-cbf4-4bba-ab8a-e67a9d434f10/1b4f9bb1-5717-479c-947d-64183d9dce76")
 		(sheetname "/DRIVE/")
@@ -865,7 +917,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1W Thick Film Resistors 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1452,6 +1504,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "55ccfa72-22b0-4db4-bd0f-9af1cc2b990e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b246c24-d1f8-485b-ba5a-f0bb39ca84fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "2"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb47c2ba-7fcb-4f97-84e4-f2f8b55d744d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "061f35b1-6e05-4795-aa96-e4b36cea8364")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "2"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed2072f7-6fcc-45fa-8e24-79118a05e3a7")
 			(effects
 				(font
 					(size 1 1)
@@ -2141,6 +2245,58 @@
 				)
 			)
 		)
+		(property "Length" "8"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53f3e2ff-919d-418e-9e6d-29b27ad38888")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "16x8"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a7eea49-7273-464c-969c-1bf32e823392")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "3"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "363fc4f1-37e2-4bf7-965e-5cbfa9f294d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "2.7"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba01f3fb-a27e-449e-87b5-88ab61f1be78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3951e5b8-a80c-480f-a36c-44a8c5d7cd50/b694d11b-6bba-4b91-8c8c-7e124b23895c")
 		(sheetname "/SLOT/")
 		(sheetfile "slot.kicad_sch")
@@ -2624,7 +2780,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1W Thick Film Resistors 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2981,7 +3137,7 @@
 				)
 			)
 		)
-		(property "Tape" ""
+		(property "Tape" "12x8"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4842,6 +4998,19 @@
 				)
 			)
 		)
+		(property "Tape" "8x4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a12ade6-119a-479c-afac-35ae6dc30bfe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*DO?41*")
 		(path "/eb9c645c-9c50-4300-89b4-78eec21e7397/693ca315-4865-4960-b7c3-028b8f42f060")
 		(sheetname "/POWER/")
@@ -5305,6 +5474,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d8ae4198-b64a-4d38-af98-5e7e7b04e836")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" ".8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "035e28af-529d-4316-b638-559ee36f9810")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "420ab742-07b0-477e-8f8b-6541abbc4afb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "8x4"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a13eb65-d9e2-4b5b-838e-c339a5a4eb2c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fcd7a113-d3ec-4fc6-b5c1-e184d3ce68fe")
 			(effects
 				(font
 					(size 1 1)
@@ -5963,7 +6184,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1W Thick Film Resistors 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6549,6 +6770,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d0322924-94c2-4b66-b619-e4245dce82b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "7.7"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7be4777f-5c66-4923-ad70-42041eaa56b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "6.3"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94388286-ec36-4408-a2ff-397a933111a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "16x8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0091dd4b-e96a-4794-9787-638ea5442a9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "6.3"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "534f0602-7abf-4253-9046-7e9895fa6d32")
 			(effects
 				(font
 					(size 1 1)
@@ -8087,7 +8360,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1W Thick Film Resistors 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11362,6 +11635,19 @@
 				)
 			)
 		)
+		(property "Tape" "12x8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b869697c-03bb-4da8-ab15-02430a5f1339")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/8aa4be49-496a-4c71-9dfb-30199fb46ae2/43a6c3a8-448b-4b0b-b71a-982c8d8eba95")
 		(sheetname "/RS485/")
@@ -11766,6 +12052,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8e35808f-ca87-4dcd-90ec-14605afc2490")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "1.8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71c97384-ccb7-478e-a829-32d2b80617e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "3.5"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52036fe1-8e34-4a69-9374-50a6de331f2e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "12x8"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e6c5ff0-0b3e-47c9-b4da-953adfc2b225")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7140d333-7232-4267-9ba1-71968560b570")
 			(effects
 				(font
 					(size 1 1)
@@ -12455,6 +12793,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f8c23cfa-9906-41d0-983d-c0f8af02367b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "3.5"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05e36b37-2a73-4e59-abcf-e7542fcad25b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "7.5"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3215d0de-ea86-406a-87f2-ec544e8215fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "16x8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d20e7d07-c02b-4386-8ed2-99d9654a6207")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "5"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "177beac0-621c-48f0-8ef2-08e0477a654a")
 			(effects
 				(font
 					(size 1 1)
@@ -13677,6 +14067,58 @@
 				)
 			)
 		)
+		(property "Length" "8"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "888062f2-b746-4fef-845f-019e45fd161f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "16x8"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebc400d2-8c7d-4e2f-976d-08d2ac883fd8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "3"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db04ea1b-3d5e-4004-9d01-52775b5fddd6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "2.7"
+			(at 0 0 234)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00f9f4ba-d3bc-48d4-ab47-887703454e66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3951e5b8-a80c-480f-a36c-44a8c5d7cd50/07102f3a-8faf-4fca-8611-c40a36a78f14")
 		(sheetname "/SLOT/")
 		(sheetfile "slot.kicad_sch")
@@ -13953,6 +14395,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9598c3f3-6224-4c8c-98b1-6248cbb22c94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "12x8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "798c5485-9144-4651-9e82-f96463925046")
 			(effects
 				(font
 					(size 1 1)
@@ -14331,7 +14786,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1W Thick Film Resistors 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "100mW Thick Film Resistor 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15561,7 +16016,7 @@
 				)
 			)
 		)
-		(property "Tape" ""
+		(property "Tape" "16x12"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16980,6 +17435,19 @@
 				)
 			)
 		)
+		(property "Tape" "8x4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "430e8292-4a00-4851-aac6-7c40b043fc94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/eb9c645c-9c50-4300-89b4-78eec21e7397/c634551a-de9b-4d43-88b5-8e217dd9f510")
 		(sheetname "/POWER/")
@@ -17798,6 +18266,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9f1846a2-ede6-45f3-ac21-1737fcdc9c06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "7.7"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27a429a6-4eec-4ae1-9f4b-2bcc92eaf442")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Length" "6.3"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "060f1f6f-5ad1-43f4-ba99-4aeb00a87566")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tape" "16x8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00a58a9d-1493-4a22-98b5-c4230cd73fb9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Width" "6.3"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da2e504b-bbc0-4fc0-884d-ef855c5a28a5")
 			(effects
 				(font
 					(size 1 1)
